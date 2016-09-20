@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0mPackaging /Users/SPan/git/MyAPI/target/scala-2.10/myapi_2.10-0.1-SNAPSHOT.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	com/mycompany/spark[0m
+[0m[[0mdebug[0m] [0m	  /Users/SPan/git/MyAPI/target/scala-2.10/classes/com/mycompany/spark[0m
+[0m[[0mdebug[0m] [0m	com/mycompany/spark/MyAPI.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/SPan/git/MyAPI/target/scala-2.10/classes/com/mycompany/spark/MyAPI.class[0m
+[0m[[0mdebug[0m] [0m	com/mycompany/spark/MyAPI$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/SPan/git/MyAPI/target/scala-2.10/classes/com/mycompany/spark/MyAPI$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	com[0m
+[0m[[0mdebug[0m] [0m	  /Users/SPan/git/MyAPI/target/scala-2.10/classes/com[0m
+[0m[[0mdebug[0m] [0m	com/mycompany[0m
+[0m[[0mdebug[0m] [0m	  /Users/SPan/git/MyAPI/target/scala-2.10/classes/com/mycompany[0m
+[0m[[0mdebug[0m] [0m	com/mycompany/spark/MyAPI$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/SPan/git/MyAPI/target/scala-2.10/classes/com/mycompany/spark/MyAPI$.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
